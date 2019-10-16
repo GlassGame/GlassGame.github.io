@@ -78,8 +78,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Infinite Shield  Inifinite Posibility<br>仍然相信"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Infinite Shield  Inifinite Posibility<br>仍然相信你们都是美好的"
+sidebar-avatar: /img/headportrait.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -103,14 +103,14 @@ page-mathjax: false
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
-        title: "冯乐乐",
-        href: "https://candycat1992.github.io/"
+        title: "Unity官网",
+        href: "https://unity.com/"
     },{
         title: "Unity Blog",
         href: "https://blogs.unity3d.com/?_ga=2.188769128.292273437.1571133820-1076233474.1568628049"
+    },{
+        title: "冯乐乐",
+        href: "https://candycat1992.github.io/"
     },{
         title: "雨松MOMO",
         href: "https://www.xuanyusong.com"
@@ -120,5 +120,5 @@ friends: [
     },{
         title: "郑洪智",
         href: "https://www.jianshu.com/u/df7bee87ffe2"
-    }
+    },
 ]
