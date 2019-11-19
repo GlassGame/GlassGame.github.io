@@ -78,7 +78,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Infinite Shield<br>Inifinite Posibility<br>仍然相信你们都是美好的"
+sidebar-about-description: "Infinite Shield<br>Inifinite Posibility<br>Ignorance brings chaos, not knowledge<br>Buffer<br>Sense is ultimate abstract."
 sidebar-avatar: /img/headportrait.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
