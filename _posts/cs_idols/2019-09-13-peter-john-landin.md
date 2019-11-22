@@ -1,8 +1,8 @@
----
-title: "Peter John Landin"
-subtitle: "「计算机科学偶像」- 彼得·约翰·兰丁"
+﻿---
+title: "Testing"
+subtitle: "test"
 layout: post
-author: "Hux"
+author: "Sy"
 header-style: text
 tags:
   - CS Idols
