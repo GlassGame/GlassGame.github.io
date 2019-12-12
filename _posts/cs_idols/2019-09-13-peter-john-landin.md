@@ -10,7 +10,7 @@ tags:
 
 > [wiki](https://en.wikipedia.org/wiki/Peter_Landin) | [维基](https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%85%B0%E4%B8%81)
 
-I was long curious about how does λ calculus become the foundation of formalizaing programming languages. It's strange that I haven't look up the answer until today: It's invented so early by Alonzo Church (whom I will write another post for) as an alternative mathematic foundation in 1930s and its relation with programming language was re-discoverred in 1960s.
+朋友圈里，有一类人，找你只会要你帮忙，和你没有任何的其他交流，或者说，就算有交流，也是为了要你帮忙。再或者就是永远都不会有交流......你有没有这样的“好友”。
 
 From the "Lambda calculus and programming languages" section of wikipedia page:
 
